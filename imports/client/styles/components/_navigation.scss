@@ -1,0 +1,16 @@
+.navigation {
+	background-color: $header-bg;
+	color: $header-color;
+}
+
+.navigation__content {
+	display: flex;
+	justify-content: space-between;
+	padding: $space;
+	max-width: $site-max-width;
+	margin: 0 auto;
+}
+
+.navigation__title {
+	margin-bottom: 0;
+}
