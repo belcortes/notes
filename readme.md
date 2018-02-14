@@ -1,3 +1,3 @@
-# Boiletplate for future projects
+# Boilerplate for future projects
 
 Includes basic react and auth setup
